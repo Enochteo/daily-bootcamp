@@ -7,3 +7,6 @@ Perform operation -> Recursively call on left subtree -> Recursively call on rig
 
 Postorder:
 Recursively call left subtree -> Recursively call right right subtree -> perform operation.
+
+Time Complexity: O(N)
+Space complexity: O(N)
