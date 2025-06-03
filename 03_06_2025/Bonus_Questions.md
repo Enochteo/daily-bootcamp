@@ -4,3 +4,6 @@ Preorder and Postorder Traversal.
 
 Preorder:
 Perform operation -> Recursively call on left subtree -> Recursively call on right subtree.
+
+Postorder:
+Recursively call left subtree -> Recursively call right right subtree -> perform operation.
