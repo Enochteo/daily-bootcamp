@@ -1,2 +1,2 @@
 Solving 5 leetcode questions per day 
-No matter what
+No matter what. Except important events.
